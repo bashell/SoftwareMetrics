@@ -1,2 +1,2 @@
 # SoftwareMetrics
-Solutions to the exercises
+My solutions to the exercises
